@@ -14,6 +14,7 @@ Obviously, if anyone is interested - I know also veterinarian things:
   - how to do an USG
   - EKG and RTG too
 
+### Code exapmle
 My latest exaple of code will be limited only to codewars challenge, really.
 
 ### Experience:
@@ -24,8 +25,10 @@ Experience - none official one, or nothing that I can currently think of.
 *Faculty of Veterinary Medicine*
 
 [Introduction to HTML](https://www.codecademy.com/learn/learn-html) (codecademy)
+
 [Learn CSS](https://www.codecademy.com/learn/learn-css)(codecademy)
+
 [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) (codecademy)
 
-
+### Language
 I am using English since my childhood. Currently I am using it daily, as my Husband is Hungarian and doesn't speak Polish (and I don't speak Hungarian). I don't have any offical certificate but I would put my knowledge level on solid C1 (/C2).
