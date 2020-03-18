@@ -8,19 +8,23 @@
 I am a veterinarian. I worked in my field for more than 4 years. I got experience with working with people, dealing with stress, multitasking and many others. After I gave birth to my baby and I started my mathernity leave, I was encuraged by my husband to start programming. I always liked IT related topics, so the transition seemed natural to me. I have done some courses, practiced as much as I can and I am currently looking for a job in new field, while at the same time trying to learn some new things and gather more experience and knowledge.
 
 ### Skills:
-I know Java, HTML, CSS, JavaScript. I know how to use Sourcetree (which I think it's easier to work with than "pure" Git)
+I know Java, HTML, CSS, JavaScript. I know how to use Sourcetree (which I think it's easier to work with than "pure" Git
+Obviously, if anyone is interested - I know also veterinarian things:
+  - how to make basic surgeries
+  - how to do an USG
+  - EKG and RTG too
 
 My latest exaple of code will be limited only to codewars challenge, really.
 
 ### Experience:
-Experience - none official one, or nothing that I can currently think of...
+Experience - none official one, or nothing that I can currently think of.
 
 ### Education:
-######  University of Warmia and Mazury in Olsztyn
-Faculty of Veterinary Medicine
+**University of Warmia and Mazury in Olsztyn**
+*Faculty of Veterinary Medicine*
 
 [Introduction to HTML](https://www.codecademy.com/learn/learn-html) (codecademy)
-[Learn CSS] (https://www.codecademy.com/learn/learn-css)(codecademy)
+[Learn CSS](https://www.codecademy.com/learn/learn-css)(codecademy)
 [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) (codecademy)
 
 
